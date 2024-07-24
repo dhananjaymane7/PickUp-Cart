@@ -1,0 +1,458 @@
+[
+    {
+        "id": "1",
+        "roi_pin": "180001",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "2",
+        "roi_pin": "180002",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "3",
+        "roi_pin": "180003",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "4",
+        "roi_pin": "180004",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "5",
+        "roi_pin": "180005",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "6",
+        "roi_pin": "180006",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "7",
+        "roi_pin": "180007",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "8",
+        "roi_pin": "180008",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "9",
+        "roi_pin": "180009",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "10",
+        "roi_pin": "180010",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "11",
+        "roi_pin": "180011",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "12",
+        "roi_pin": "180012",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "13",
+        "roi_pin": "180013",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "14",
+        "roi_pin": "180015",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "15",
+        "roi_pin": "180016",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "16",
+        "roi_pin": "180018",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "17",
+        "roi_pin": "180020",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "18",
+        "roi_pin": "180121",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "19",
+        "roi_pin": "180133",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "20",
+        "roi_pin": "181102",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "21",
+        "roi_pin": "181121",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "22",
+        "roi_pin": "181123",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "23",
+        "roi_pin": "181124",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "24",
+        "roi_pin": "181132",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "25",
+        "roi_pin": "181133",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "26",
+        "roi_pin": "181152",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "27",
+        "roi_pin": "181201",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "28",
+        "roi_pin": "181205",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "29",
+        "roi_pin": "181221",
+        "roi_city": "NAGROTA",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "30",
+        "roi_pin": "182101",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "31",
+        "roi_pin": "182121",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "32",
+        "roi_pin": "182202",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "33",
+        "roi_pin": "184101",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "34",
+        "roi_pin": "184102",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "35",
+        "roi_pin": "184120",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "36",
+        "roi_pin": "184121",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "37",
+        "roi_pin": "184144",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "38",
+        "roi_pin": "184152",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "39",
+        "roi_pin": "185101",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "40",
+        "roi_pin": "185111",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "41",
+        "roi_pin": "185121",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "42",
+        "roi_pin": "185131",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "43",
+        "roi_pin": "185151",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "44",
+        "roi_pin": "185153",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "45",
+        "roi_pin": "185211",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "46",
+        "roi_pin": "190001",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "47",
+        "roi_pin": "190002",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "48",
+        "roi_pin": "190003",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "49",
+        "roi_pin": "190004",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "50",
+        "roi_pin": "190005",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "51",
+        "roi_pin": "190006",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "52",
+        "roi_pin": "190008",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "53",
+        "roi_pin": "190009",
+        "roi_city": "JAMMU",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "54",
+        "roi_pin": "190010",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "55",
+        "roi_pin": "190011",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "56",
+        "roi_pin": "190012",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "57",
+        "roi_pin": "190013",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "58",
+        "roi_pin": "190014",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "59",
+        "roi_pin": "190015",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "60",
+        "roi_pin": "190017",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "61",
+        "roi_pin": "190018",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "62",
+        "roi_pin": "190020",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "63",
+        "roi_pin": "190023",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "64",
+        "roi_pin": "191101",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "65",
+        "roi_pin": "191103",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "66",
+        "roi_pin": "191201",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "67",
+        "roi_pin": "192101",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "68",
+        "roi_pin": "192121",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "69",
+        "roi_pin": "192122",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "70",
+        "roi_pin": "192303",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "71",
+        "roi_pin": "193101",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "72",
+        "roi_pin": "193121",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "73",
+        "roi_pin": "193201",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "74",
+        "roi_pin": "193222",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "75",
+        "roi_pin": "193401",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    },
+    {
+        "id": "76",
+        "roi_pin": "193404",
+        "roi_city": "SRINAGAR -JK",
+        "roi_state": "JAMMU AND KASHMIR"
+    }
+]

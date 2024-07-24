@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Delivery{
+    width: 100%;
+    height: 100%;
+    background-color: #F5F5F5;
+    min-height: 100px;
+    padding-top: 1%;
+}
+
+.horizontal-line{
+    background-color: black;
+    
+    align-self: center;
+    position: absolute;
+
+    color: black;
+    width: 130px;
+    height: 2px;
+    top: 37%;
+    left: 70%;
+}
+
+
+
+.inner-div{
+    height: 160px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+
+
+    justify-content: center;
+    
+}
+
+.flex-div{
+    
+    display: flex;
+    flex-direction: row;
+    gap:7rem;
+    
+}
+
+
+
+.one{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.shape{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    /* background-color: black; */
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 100
+}
+
+.icon-1{
+    position: absolute;
+    top: 35%;
+    left: 32%;
+}
+
+.location{
+    background-color: rgb(211, 167, 86);
+}
+
+.para-1{
+    padding-left: 12px;
+ 
+}
+.img1{
+    background-image: url('./Images/location_bg.jpg');
+}
+
+.img2{
+    background-image: url('./Images/footer-img.png');
+}
+
+.img3{
+    background-image: url('./Images/home-banner.jpg');
+}
+
+.img4{
+    background-image: url('./Images/footer-img.png');
+}
+.img5{
+    background-image: url('./Images/bottom_bg.png');
+}
+.img6{
+    background-image: url('./Images/delivery_bg.png');
+}
+.img7{
+    background-image: url('./Images/service-banner.jpg');
+}
+.img8{
+    background-image: url('./Images/about-banner.jpg');
+}
+.img9{
+    background-image: url('./Images/contactUs_banner.jpg');
+}
+ .btn1 button{
+    width : 223px;
+    height : 49px;
+    background-color : "#EDEDED";
+    color : black;
+    font-size : 16px;
+    /* Font-wright : semibold; */
+    /* font-family: ROBOTO; */
+    margin-left : 34%;
+    margin-top : 15px;    
+    }
+
+.btn2{
+    background-color:rgb(177, 174, 174) ;
+    width: 223px;
+    height:49px ;
+    margin-left : 34%;
+    margin-top : -15px; 
+}    
+
+
+.active{
+    
+    
+    transition-duration: 2s;
+    transition-property:initial;
+    
+    display: block;
+}
+
+tr,td,th{
+    border: 1px solid black;
+    border-collapse:collapse;
+    text-align: center;
+    background-color: white;
+}

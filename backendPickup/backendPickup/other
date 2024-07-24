@@ -1,0 +1,153 @@
+// const express = require("express");
+// const router = express.Router();
+
+// const db = require('../models/db')
+
+//   // postBooking route
+//   router.post("/postBooking", (req, res) => {
+//     const {
+//       pname,  
+//       pnumber,  
+//       pemail,
+//       paddress,  
+//       ppin,    
+//       pcity,     
+//       pstate,  
+//       dname,   
+//       dnumber,  
+//       demail,
+//       daddress,  
+//       dpin,  
+//       dcity,  
+//       dstate,  
+//       packageType,  
+//       weight, 
+//       shiptype ,
+//       price,
+//       orderDate
+//     } = req.body;
+  
+//  
+  
+//     db.query(q, values, (err, data) => {
+//       if (err) return res.send(err);
+//       return res.json({ message: 'order created successfully', data });
+//     });
+//   });
+
+
+
+//   router.get("/getOrders", (req, res) => {
+//     const q = "SELECT * FROM orders";
+  
+//     db.query(q, (err, data) => {
+//       if (err) return res.send(err);
+//       return res.json({ message: 'Orders retrieved successfully', data });
+//     });
+//   });
+//   module.exports = router;
+
+
+
+
+// const express = require("express");
+// const router = express.Router();
+
+// const db = require('../models/db')
+
+// // postBooking route
+// router.post("/postBooking", (req, res) => {
+//   const {
+//     pname,
+//     pnumber,
+//     pemail,
+//     paddress,
+//     ppin,
+//     pcity,
+//     pstate,
+//     dname,
+//     dnumber,
+//     demail,
+//     daddress,
+//     dpin,
+//     dcity,
+//     dstate,
+//     packageType,
+//     weight,
+//     shiptype,
+//     price,
+//     orderDate,
+   
+//     trackingNo  // New field for tracking number
+//   } = req.body;
+
+//   // Set initial status to "pending"
+//   let status = "pending";
+
+//   if (trackingNo) {
+//     // If tracking number is provided, set status to "picked-up"
+//     status = "picked-up";
+//   }
+
+//   const q = "INSERT INTO orders (pname, pnumber, pemail, paddress, ppin, pcity, pstate, dname, dnumber, demail, daddress, dpin, dcity, dstate, packageType, weight, shiptype, price, orderDate, status, trackingNo) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?)";
+// const values = [
+//   pname, pnumber, pemail, paddress, ppin, pcity, pstate, dname, dnumber, demail, daddress, dpin, dcity, dstate, packageType, weight, shiptype, price, orderDate, status, trackingNo
+// ];
+
+
+//   db.query(q, values, (err, data) => {
+//     if (err) return res.send(err);
+//     return res.json({ message: 'Order created successfully', data });
+//   });
+// });
+
+// // getOrders route
+// router.get("/getOrders", (req, res) => {
+//   const q = "SELECT * FROM orders";
+
+//   db.query(q, (err, data) => {
+//     if (err) return res.send(err);
+//     return res.json({ message: 'Orders retrieved successfully', data });
+//   });
+// });
+
+// // getOrderById route
+// router.get("/getOrderById/:id", (req, res) => {
+//   const orderId = req.params.id;
+//   const q = "SELECT * FROM orders WHERE id = ?";
+  
+//   db.query(q, [orderId], (err, data) => {
+//     if (err) return res.send(err);
+    
+//     if (data.length === 0) {
+//       return res.status(404).json({ message: 'Order not found' });
+//     }
+
+//     return res.json({ message: 'Order retrieved successfully', data: data[0] });
+//   });
+// });
+
+// // updateTrackingNo route
+// router.post("/updateTrackingNo/:id", (req, res) => {
+//   const orderId = req.params.id;
+//   const { trackingNo } = req.body;
+
+//   if (!trackingNo) {
+//     return res.status(400).json({ message: 'Tracking number is required' });
+//   }
+
+//   const qUpdate = "UPDATE orders SET trackingNo = ?, status = 'picked-up' WHERE id = ?";
+//   const valuesUpdate = [trackingNo, orderId];
+
+//   db.query(qUpdate, valuesUpdate, (err, data) => {
+//     if (err) return res.send(err);
+
+//     if (data.affectedRows === 0) {
+//       return res.status(404).json({ message: 'Order not found' });
+//     }
+
+//     return res.json({ message: 'Tracking number updated successfully' });
+//   });
+// });
+
+// module.exports = router;

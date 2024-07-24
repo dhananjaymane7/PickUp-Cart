@@ -1,0 +1,2576 @@
+[
+    {
+    "id": "1",
+    "roi_pin": "305625",
+    "roi_city": "BIJAYNAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "2",
+    "roi_pin": "737101",
+    "roi_city": "GANGTOK",
+    "roi_state": "SIKKIM"
+},
+{
+    "id": "3",
+    "roi_pin": "737102",
+    "roi_city": "DEORALI -GANGTOK",
+    "roi_state": "SIKKIM"
+},
+{
+    "id": "4",
+    "roi_pin": "737132",
+    "roi_city": "DEORALI -GANGTOK",
+    "roi_state": "SIKKIM"
+},
+{
+    "id": "5",
+    "roi_pin": "737134",
+    "roi_city": "SINGTHAM",
+    "roi_state": "SIKKIM"
+},
+{
+    "id": "6",
+    "roi_pin": "737135",
+    "roi_city": "RANIPUL",
+    "roi_state": "SIKKIM"
+},
+{
+    "id": "7",
+    "roi_pin": "738001",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "8",
+    "roi_pin": "781001",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "9",
+    "roi_pin": "781003",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "10",
+    "roi_pin": "781004",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "11",
+    "roi_pin": "781005",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "12",
+    "roi_pin": "781006",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "13",
+    "roi_pin": "781007",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "14",
+    "roi_pin": "781008",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "15",
+    "roi_pin": "781009",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "16",
+    "roi_pin": "781010",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "17",
+    "roi_pin": "781011",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "18",
+    "roi_pin": "781012",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "19",
+    "roi_pin": "781013",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "20",
+    "roi_pin": "781014",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "21",
+    "roi_pin": "781015",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "22",
+    "roi_pin": "781016",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "23",
+    "roi_pin": "781017",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "24",
+    "roi_pin": "781018",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "25",
+    "roi_pin": "781019",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "26",
+    "roi_pin": "781020",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "27",
+    "roi_pin": "781021",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "28",
+    "roi_pin": "781022",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "29",
+    "roi_pin": "781024",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "30",
+    "roi_pin": "781025",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "31",
+    "roi_pin": "781026",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "32",
+    "roi_pin": "781027",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "33",
+    "roi_pin": "781028",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "34",
+    "roi_pin": "781029",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "35",
+    "roi_pin": "781030",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "36",
+    "roi_pin": "781031",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "37",
+    "roi_pin": "781032",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "38",
+    "roi_pin": "781033",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "39",
+    "roi_pin": "781034",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "40",
+    "roi_pin": "781035",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "41",
+    "roi_pin": "781036",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "42",
+    "roi_pin": "781037",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "43",
+    "roi_pin": "781038",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "44",
+    "roi_pin": "781039",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "45",
+    "roi_pin": "781040",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "46",
+    "roi_pin": "781068",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "47",
+    "roi_pin": "781071",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "48",
+    "roi_pin": "781101",
+    "roi_city": "RANGIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "49",
+    "roi_pin": "781102",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "50",
+    "roi_pin": "781103",
+    "roi_city": "SUALKUCHI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "51",
+    "roi_pin": "781104",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "52",
+    "roi_pin": "781122",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "53",
+    "roi_pin": "781123",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "54",
+    "roi_pin": "781124",
+    "roi_city": "CHHAYGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "55",
+    "roi_pin": "781125",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "56",
+    "roi_pin": "781126",
+    "roi_city": "NALBARI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "57",
+    "roi_pin": "781128",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "58",
+    "roi_pin": "781130",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "59",
+    "roi_pin": "781132",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "60",
+    "roi_pin": "781150",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "61",
+    "roi_pin": "781171",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "62",
+    "roi_pin": "781301",
+    "roi_city": "BARPETA (AS)",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "63",
+    "roi_pin": "781306",
+    "roi_city": "CHAMATA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "64",
+    "roi_pin": "781313",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "65",
+    "roi_pin": "781315",
+    "roi_city": "BARPETA (AS)",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "66",
+    "roi_pin": "781316",
+    "roi_city": "BARPETA (AS)",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "67",
+    "roi_pin": "781319",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "68",
+    "roi_pin": "781325",
+    "roi_city": "BARPETA (AS)",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "69",
+    "roi_pin": "781335",
+    "roi_city": "NALBARI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "70",
+    "roi_pin": "781346",
+    "roi_city": "BARAMA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "71",
+    "roi_pin": "781354",
+    "roi_city": "RANGIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "72",
+    "roi_pin": "781355",
+    "roi_city": "TIHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "73",
+    "roi_pin": "781365",
+    "roi_city": "RANGIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "74",
+    "roi_pin": "781366",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "75",
+    "roi_pin": "781367",
+    "roi_city": "NALBARI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "76",
+    "roi_pin": "781370",
+    "roi_city": "TIHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "77",
+    "roi_pin": "781371",
+    "roi_city": "TIHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "78",
+    "roi_pin": "781374",
+    "roi_city": "TIHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "79",
+    "roi_pin": "781378",
+    "roi_city": "TIHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "80",
+    "roi_pin": "781380",
+    "roi_city": "RANGIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "81",
+    "roi_pin": "781381",
+    "roi_city": "KAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "82",
+    "roi_pin": "781385",
+    "roi_city": "RANGIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "83",
+    "roi_pin": "782001",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "84",
+    "roi_pin": "782002",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "85",
+    "roi_pin": "782003",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "86",
+    "roi_pin": "782010",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "87",
+    "roi_pin": "782101",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "88",
+    "roi_pin": "782103",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "89",
+    "roi_pin": "782105",
+    "roi_city": "MORIGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "90",
+    "roi_pin": "782107",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "91",
+    "roi_pin": "782123",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "92",
+    "roi_pin": "782125",
+    "roi_city": "RUPAHI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "93",
+    "roi_pin": "782126",
+    "roi_city": "MORIGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "94",
+    "roi_pin": "782137",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "95",
+    "roi_pin": "782138",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "96",
+    "roi_pin": "782139",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "97",
+    "roi_pin": "782140",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "98",
+    "roi_pin": "782402",
+    "roi_city": "SONAPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "99",
+    "roi_pin": "782403",
+    "roi_city": "KAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "100",
+    "roi_pin": "782410",
+    "roi_city": "JAGIROAD",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "101",
+    "roi_pin": "782413",
+    "roi_city": "JAGIROAD",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "102",
+    "roi_pin": "782426",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "103",
+    "roi_pin": "782435",
+    "roi_city": "HOJAI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "104",
+    "roi_pin": "782440",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "105",
+    "roi_pin": "782445",
+    "roi_city": "HOJAI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "106",
+    "roi_pin": "782446",
+    "roi_city": "NAOGAON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "107",
+    "roi_pin": "782447",
+    "roi_city": "LAMDING",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "108",
+    "roi_pin": "782460",
+    "roi_city": "DIPHU",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "109",
+    "roi_pin": "782461",
+    "roi_city": "MANJA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "110",
+    "roi_pin": "782480",
+    "roi_city": "BOKAJAN",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "111",
+    "roi_pin": "782482",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "112",
+    "roi_pin": "783101",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "113",
+    "roi_pin": "783120",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "114",
+    "roi_pin": "783123",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "115",
+    "roi_pin": "783124",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "116",
+    "roi_pin": "783125",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "117",
+    "roi_pin": "783126",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "118",
+    "roi_pin": "783129",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "119",
+    "roi_pin": "783135",
+    "roi_city": "MANKACHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "120",
+    "roi_pin": "783301",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "121",
+    "roi_pin": "783302",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "122",
+    "roi_pin": "783303",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "123",
+    "roi_pin": "783304",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "124",
+    "roi_pin": "783305",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "125",
+    "roi_pin": "783306",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "126",
+    "roi_pin": "783307",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "127",
+    "roi_pin": "783308",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "128",
+    "roi_pin": "783309",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "129",
+    "roi_pin": "783310",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "130",
+    "roi_pin": "783311",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "131",
+    "roi_pin": "783312",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "132",
+    "roi_pin": "783313",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "133",
+    "roi_pin": "783314",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "134",
+    "roi_pin": "783315",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "135",
+    "roi_pin": "783316",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "136",
+    "roi_pin": "783317",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "137",
+    "roi_pin": "783318",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "138",
+    "roi_pin": "783319",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "139",
+    "roi_pin": "783320",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "140",
+    "roi_pin": "783321",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "141",
+    "roi_pin": "783322",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "142",
+    "roi_pin": "783323",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "143",
+    "roi_pin": "783331",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "144",
+    "roi_pin": "783334",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "145",
+    "roi_pin": "783335",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "146",
+    "roi_pin": "783338",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "147",
+    "roi_pin": "783344",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "148",
+    "roi_pin": "783345",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "149",
+    "roi_pin": "783351",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "150",
+    "roi_pin": "783360",
+    "roi_city": "KOKRAJHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "151",
+    "roi_pin": "783362",
+    "roi_city": "KOKRAJHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "152",
+    "roi_pin": "783369",
+    "roi_city": "KOKRAJHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "153",
+    "roi_pin": "783370",
+    "roi_city": "KOKRAJHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "154",
+    "roi_pin": "783371",
+    "roi_city": "DHUBRI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "155",
+    "roi_pin": "783372",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "156",
+    "roi_pin": "783374",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "157",
+    "roi_pin": "783380",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "158",
+    "roi_pin": "783381",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "159",
+    "roi_pin": "783382",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "160",
+    "roi_pin": "783384",
+    "roi_city": "ABHAYAPURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "161",
+    "roi_pin": "783385",
+    "roi_city": "BONGAIGON",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "162",
+    "roi_pin": "783387",
+    "roi_city": "GOALPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "163",
+    "roi_pin": "783390",
+    "roi_city": "BIJNI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "164",
+    "roi_pin": "784001",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "165",
+    "roi_pin": "784002",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "166",
+    "roi_pin": "784003",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "167",
+    "roi_pin": "784004",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "168",
+    "roi_pin": "784027",
+    "roi_city": "KALIABOR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "169",
+    "roi_pin": "784028",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "170",
+    "roi_pin": "784101",
+    "roi_city": "BALIPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "171",
+    "roi_pin": "784105",
+    "roi_city": "BALIPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "172",
+    "roi_pin": "784110",
+    "roi_city": "DHEKIAJULI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "173",
+    "roi_pin": "784114",
+    "roi_city": "UDALGURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "174",
+    "roi_pin": "784115",
+    "roi_city": "KHARUPETIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "175",
+    "roi_pin": "784120",
+    "roi_city": "DHEKIAJULI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "176",
+    "roi_pin": "784125",
+    "roi_city": "MONGALDAI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "177",
+    "roi_pin": "784145",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "178",
+    "roi_pin": "784154",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "179",
+    "roi_pin": "784160",
+    "roi_city": "BANDARDEWA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "180",
+    "roi_pin": "784161",
+    "roi_city": "BIHPURIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "181",
+    "roi_pin": "784162",
+    "roi_city": "BIHPURIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "182",
+    "roi_pin": "784164",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "183",
+    "roi_pin": "784168",
+    "roi_city": "GOHPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "184",
+    "roi_pin": "784176",
+    "roi_city": "BISWANATH CHARIALI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "185",
+    "roi_pin": "784179",
+    "roi_city": "BISWANATH CHARIALI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "186",
+    "roi_pin": "784180",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "187",
+    "roi_pin": "784501",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "188",
+    "roi_pin": "784503",
+    "roi_city": "RANGAPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "189",
+    "roi_pin": "784505",
+    "roi_city": "RANGAPARA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "190",
+    "roi_pin": "784507",
+    "roi_city": "UDALGURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "191",
+    "roi_pin": "784509",
+    "roi_city": "UDALGURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "192",
+    "roi_pin": "784514",
+    "roi_city": "DARRANG",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "193",
+    "roi_pin": "784521",
+    "roi_city": "MONGALDAI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "194",
+    "roi_pin": "785001",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "195",
+    "roi_pin": "785002",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "196",
+    "roi_pin": "785003",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "197",
+    "roi_pin": "785004",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "198",
+    "roi_pin": "785005",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "199",
+    "roi_pin": "785006",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "200",
+    "roi_pin": "785007",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "201",
+    "roi_pin": "785008",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "202",
+    "roi_pin": "785010",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "203",
+    "roi_pin": "785011",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "204",
+    "roi_pin": "785012",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "205",
+    "roi_pin": "785013",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "206",
+    "roi_pin": "785014",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "207",
+    "roi_pin": "785016",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "208",
+    "roi_pin": "785018",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "209",
+    "roi_pin": "785020",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "210",
+    "roi_pin": "785057",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "211",
+    "roi_pin": "785104",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "212",
+    "roi_pin": "785112",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "213",
+    "roi_pin": "785601",
+    "roi_city": "SARUPATHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "214",
+    "roi_pin": "785602",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "215",
+    "roi_pin": "785604",
+    "roi_city": "SARUPATHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "216",
+    "roi_pin": "785612",
+    "roi_city": "BOKAKHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "217",
+    "roi_pin": "785614",
+    "roi_city": "DERGOAN",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "218",
+    "roi_pin": "785621",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "219",
+    "roi_pin": "785623",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "220",
+    "roi_pin": "785624",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "221",
+    "roi_pin": "785627",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "222",
+    "roi_pin": "785628",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "223",
+    "roi_pin": "785630",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "224",
+    "roi_pin": "785634",
+    "roi_city": "MARIANI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "225",
+    "roi_pin": "785640",
+    "roi_city": "SIBSAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "226",
+    "roi_pin": "785660",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "227",
+    "roi_pin": "785662",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "228",
+    "roi_pin": "785664",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "229",
+    "roi_pin": "785670",
+    "roi_city": "MORANHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "230",
+    "roi_pin": "785677",
+    "roi_city": "MORANHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "231",
+    "roi_pin": "785678",
+    "roi_city": "MORANHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "232",
+    "roi_pin": "785679",
+    "roi_city": "AMGURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "233",
+    "roi_pin": "785680",
+    "roi_city": "AMGURI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "234",
+    "roi_pin": "785685",
+    "roi_city": "SIBSAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "235",
+    "roi_pin": "785686",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "236",
+    "roi_pin": "785690",
+    "roi_city": "SONARI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "237",
+    "roi_pin": "785693",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "238",
+    "roi_pin": "785694",
+    "roi_city": "SONARI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "239",
+    "roi_pin": "785695",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "240",
+    "roi_pin": "785699",
+    "roi_city": "NRL(GOLAGHAT)",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "241",
+    "roi_pin": "785702",
+    "roi_city": "GOLAGHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "242",
+    "roi_pin": "785704",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "243",
+    "roi_pin": "786001",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "244",
+    "roi_pin": "786002",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "245",
+    "roi_pin": "786003",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "246",
+    "roi_pin": "786004",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "247",
+    "roi_pin": "786005",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "248",
+    "roi_pin": "786006",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "249",
+    "roi_pin": "786007",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "250",
+    "roi_pin": "786008",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "251",
+    "roi_pin": "786009",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "252",
+    "roi_pin": "786010",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "253",
+    "roi_pin": "786052",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "254",
+    "roi_pin": "786053",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "255",
+    "roi_pin": "786054",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "256",
+    "roi_pin": "786121",
+    "roi_city": "CHABUA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "257",
+    "roi_pin": "786124",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "258",
+    "roi_pin": "786125",
+    "roi_city": "DIGBOI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "259",
+    "roi_pin": "786126",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "260",
+    "roi_pin": "786145",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "261",
+    "roi_pin": "786146",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "262",
+    "roi_pin": "786150",
+    "roi_city": "DOOM DOOMA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "263",
+    "roi_pin": "786151",
+    "roi_city": "DOOM DOOMA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "264",
+    "roi_pin": "786153",
+    "roi_city": "DOOM DOOMA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "265",
+    "roi_pin": "786154",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "266",
+    "roi_pin": "786155",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "267",
+    "roi_pin": "786156",
+    "roi_city": "DOOM DOOMA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "268",
+    "roi_pin": "786157",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "269",
+    "roi_pin": "786170",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "270",
+    "roi_pin": "786171",
+    "roi_city": "DIGBOI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "271",
+    "roi_pin": "786172",
+    "roi_city": "DIGBOI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "272",
+    "roi_pin": "786180",
+    "roi_city": "DIGBOI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "273",
+    "roi_pin": "786181",
+    "roi_city": "DIGBOI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "274",
+    "roi_pin": "786184",
+    "roi_city": "CHABUA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "275",
+    "roi_pin": "786601",
+    "roi_city": "DULIAJAN",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "276",
+    "roi_pin": "786602",
+    "roi_city": "DULIAJAN",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "277",
+    "roi_pin": "786610",
+    "roi_city": "NAHARKATIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "278",
+    "roi_pin": "786611",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "279",
+    "roi_pin": "786615",
+    "roi_city": "NAHARKATIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "280",
+    "roi_pin": "786622",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "281",
+    "roi_pin": "786623",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "282",
+    "roi_pin": "786624",
+    "roi_city": "DIBRUGARH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "283",
+    "roi_pin": "786629",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "284",
+    "roi_pin": "786630",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "285",
+    "roi_pin": "786631",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "286",
+    "roi_pin": "786678",
+    "roi_city": "DULIAJAN",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "287",
+    "roi_pin": "786684",
+    "roi_city": "NAMRUP",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "288",
+    "roi_pin": "787001",
+    "roi_city": "NORTH LAKHIMPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "289",
+    "roi_pin": "787027",
+    "roi_city": "GOGAMUKH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "290",
+    "roi_pin": "787029",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "291",
+    "roi_pin": "787034",
+    "roi_city": "GOGAMUKH",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "292",
+    "roi_pin": "787053",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "293",
+    "roi_pin": "787055",
+    "roi_city": "NORTH LAKHIMPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "294",
+    "roi_pin": "787057",
+    "roi_city": "NORTH LAKHIMPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "295",
+    "roi_pin": "787058",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "296",
+    "roi_pin": "787059",
+    "roi_city": "SILAPATHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "297",
+    "roi_pin": "787060",
+    "roi_city": "DHEMAJI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "298",
+    "roi_pin": "787160",
+    "roi_city": "DHEMAJI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "299",
+    "roi_pin": "788001",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "300",
+    "roi_pin": "788002",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "301",
+    "roi_pin": "788003",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "302",
+    "roi_pin": "788004",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "303",
+    "roi_pin": "788005",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "304",
+    "roi_pin": "788006",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "305",
+    "roi_pin": "788007",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "306",
+    "roi_pin": "788008",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "307",
+    "roi_pin": "788009",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "308",
+    "roi_pin": "788010",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "309",
+    "roi_pin": "788011",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "310",
+    "roi_pin": "788012",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "311",
+    "roi_pin": "788014",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "312",
+    "roi_pin": "788015",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "313",
+    "roi_pin": "788025",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "314",
+    "roi_pin": "788030",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "315",
+    "roi_pin": "788101",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "316",
+    "roi_pin": "788104",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "317",
+    "roi_pin": "788106",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "318",
+    "roi_pin": "788115",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "319",
+    "roi_pin": "788121",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "320",
+    "roi_pin": "788150",
+    "roi_city": "HAILAKANDI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "321",
+    "roi_pin": "788151",
+    "roi_city": "HAILAKANDI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "322",
+    "roi_pin": "788152",
+    "roi_city": "HAILAKANDI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "323",
+    "roi_pin": "788155",
+    "roi_city": "HAILAKANDI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "324",
+    "roi_pin": "788161",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "325",
+    "roi_pin": "788163",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "326",
+    "roi_pin": "788166",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "327",
+    "roi_pin": "788702",
+    "roi_city": "KARIMGANJ",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "328",
+    "roi_pin": "788710",
+    "roi_city": "KARIMGANJ",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "329",
+    "roi_pin": "788722",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "330",
+    "roi_pin": "788724",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "331",
+    "roi_pin": "788734",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "332",
+    "roi_pin": "788735",
+    "roi_city": "KARIMGANJ",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "333",
+    "roi_pin": "788736",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "334",
+    "roi_pin": "788790",
+    "roi_city": "KARIMGANJ",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "335",
+    "roi_pin": "788803",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "336",
+    "roi_pin": "788806",
+    "roi_city": "KARIMGANJ",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "337",
+    "roi_pin": "788815",
+    "roi_city": "SILCHAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "338",
+    "roi_pin": "788819",
+    "roi_city": "HALFLONG",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "339",
+    "roi_pin": "790001",
+    "roi_city": "BOMDILA",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "340",
+    "roi_pin": "791009",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "341",
+    "roi_pin": "791102",
+    "roi_city": "PASIGHAT",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "342",
+    "roi_pin": "791103",
+    "roi_city": "PASIGHAT",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "343",
+    "roi_pin": "791109",
+    "roi_city": "NAHARLAGOAN",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "344",
+    "roi_pin": "791110",
+    "roi_city": "ITANAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "345",
+    "roi_pin": "791111",
+    "roi_city": "ITANAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "346",
+    "roi_pin": "791113",
+    "roi_city": "ITANAGAR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "347",
+    "roi_pin": "791118",
+    "roi_city": "PALIN",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "348",
+    "roi_pin": "791120",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "349",
+    "roi_pin": "791123",
+    "roi_city": "NAHARLAGOAN",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "350",
+    "roi_pin": "791125",
+    "roi_city": "TEZPUR",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "351",
+    "roi_pin": "792103",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "352",
+    "roi_pin": "792110",
+    "roi_city": "TINSUKIA",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "353",
+    "roi_pin": "792130",
+    "roi_city": "KHONSA",
+    "roi_state": "ARUNACHAL PRADESH"
+},
+{
+    "id": "354",
+    "roi_pin": "793001",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "355",
+    "roi_pin": "793002",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "356",
+    "roi_pin": "793003",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "357",
+    "roi_pin": "793004",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "358",
+    "roi_pin": "793006",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "359",
+    "roi_pin": "793012",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "360",
+    "roi_pin": "793014",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "361",
+    "roi_pin": "793018",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "362",
+    "roi_pin": "793019",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "363",
+    "roi_pin": "793021",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "364",
+    "roi_pin": "793022",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "365",
+    "roi_pin": "793105",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "366",
+    "roi_pin": "793108",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "367",
+    "roi_pin": "793111",
+    "roi_city": "SHILLONG",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "368",
+    "roi_pin": "793150",
+    "roi_city": "JOWAI",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "369",
+    "roi_pin": "794001",
+    "roi_city": "TURA",
+    "roi_state": "MEGHALAYA"
+},
+{
+    "id": "370",
+    "roi_pin": "794111",
+    "roi_city": "GUWAHATI",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "371",
+    "roi_pin": "795001",
+    "roi_city": "IMPHAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "372",
+    "roi_pin": "795004",
+    "roi_city": "IMPHAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "373",
+    "roi_pin": "795103",
+    "roi_city": "THOUBAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "374",
+    "roi_pin": "795106",
+    "roi_city": "IMPHAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "375",
+    "roi_pin": "795124",
+    "roi_city": "IMPHAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "376",
+    "roi_pin": "795138",
+    "roi_city": "THOUBAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "377",
+    "roi_pin": "795140",
+    "roi_city": "IMPHAL",
+    "roi_state": "MANIPUR"
+},
+{
+    "id": "378",
+    "roi_pin": "796001",
+    "roi_city": "AIZWAL",
+    "roi_state": "MIZORAM"
+},
+{
+    "id": "379",
+    "roi_pin": "796007",
+    "roi_city": "AIZWAL",
+    "roi_state": "MIZORAM"
+},
+{
+    "id": "380",
+    "roi_pin": "797113",
+    "roi_city": "JORHAT",
+    "roi_state": "ASSAM"
+},
+{
+    "id": "381",
+    "roi_pin": "799001",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "382",
+    "roi_pin": "799002",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "383",
+    "roi_pin": "799003",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "384",
+    "roi_pin": "799004",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "385",
+    "roi_pin": "799005",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "386",
+    "roi_pin": "799006",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "387",
+    "roi_pin": "799007",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "388",
+    "roi_pin": "799008",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "389",
+    "roi_pin": "799009",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "390",
+    "roi_pin": "799010",
+    "roi_city": "JOGENDRA NAGAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "391",
+    "roi_pin": "799011",
+    "roi_city": "BISALGARH",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "392",
+    "roi_pin": "799013",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "393",
+    "roi_pin": "799014",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "394",
+    "roi_pin": "799022",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "395",
+    "roi_pin": "799035",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "396",
+    "roi_pin": "799045",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "397",
+    "roi_pin": "799046",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "398",
+    "roi_pin": "799055",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "399",
+    "roi_pin": "799101",
+    "roi_city": "AMARPUR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "400",
+    "roi_pin": "799102",
+    "roi_city": "BISALGARH",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "401",
+    "roi_pin": "799116",
+    "roi_city": "RAJARBAG",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "402",
+    "roi_pin": "799120",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "403",
+    "roi_pin": "799130",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "404",
+    "roi_pin": "799131",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "405",
+    "roi_pin": "799141",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "406",
+    "roi_pin": "799144",
+    "roi_city": "SANTIRBAZAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "407",
+    "roi_pin": "799145",
+    "roi_city": "SUBROOM",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "408",
+    "roi_pin": "799155",
+    "roi_city": "BELONIA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "409",
+    "roi_pin": "799181",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "410",
+    "roi_pin": "799201",
+    "roi_city": "KHOWAI",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "411",
+    "roi_pin": "799202",
+    "roi_city": "KHOWAI",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "412",
+    "roi_pin": "799203",
+    "roi_city": "KHOWAI",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "413",
+    "roi_pin": "799205",
+    "roi_city": "TELIAMURA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "414",
+    "roi_pin": "799206",
+    "roi_city": "PANISAGAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "415",
+    "roi_pin": "799207",
+    "roi_city": "KHOWAI",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "416",
+    "roi_pin": "799211",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "417",
+    "roi_pin": "799250",
+    "roi_city": "DHARMANAGAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "418",
+    "roi_pin": "799252",
+    "roi_city": "BAGBASSA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "419",
+    "roi_pin": "799260",
+    "roi_city": "PANISAGAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "420",
+    "roi_pin": "799264",
+    "roi_city": "KUMARGHAT",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "421",
+    "roi_pin": "799270",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "422",
+    "roi_pin": "799275",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "423",
+    "roi_pin": "799277",
+    "roi_city": "KAILASHAHAR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "424",
+    "roi_pin": "799279",
+    "roi_city": "AGARTALA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "425",
+    "roi_pin": "799284",
+    "roi_city": "GANDACHARA",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "426",
+    "roi_pin": "799285",
+    "roi_city": "KAMALPUR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "427",
+    "roi_pin": "799286",
+    "roi_city": "KAMALPUR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "428",
+    "roi_pin": "799287",
+    "roi_city": "KAMALPUR",
+    "roi_state": "TRIPURA"
+},
+{
+    "id": "429",
+    "roi_pin": "799289",
+    "roi_city": "AMBASSA",
+    "roi_state": "TRIPURA"
+}
+]

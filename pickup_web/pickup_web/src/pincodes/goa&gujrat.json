@@ -1,0 +1,4862 @@
+[
+    {
+        "id": "10026",
+        "roi_pin": "346002",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10027",
+        "roi_pin": "346003",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10028",
+        "roi_pin": "346004",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10029",
+        "roi_pin": "346005",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10030",
+        "roi_pin": "346110",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10031",
+        "roi_pin": "360001",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10032",
+        "roi_pin": "360002",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10033",
+        "roi_pin": "360003",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10034",
+        "roi_pin": "360004",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10035",
+        "roi_pin": "360005",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10036",
+        "roi_pin": "360006",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10037",
+        "roi_pin": "360007",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10038",
+        "roi_pin": "360008",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10039",
+        "roi_pin": "360011",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10040",
+        "roi_pin": "360012",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10041",
+        "roi_pin": "360013",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10042",
+        "roi_pin": "360018",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10043",
+        "roi_pin": "360020",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10044",
+        "roi_pin": "360021",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10045",
+        "roi_pin": "360023",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10046",
+        "roi_pin": "360024",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10047",
+        "roi_pin": "360034",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10048",
+        "roi_pin": "360035",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10049",
+        "roi_pin": "360075",
+        "roi_city": "GONDAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10050",
+        "roi_pin": "360110",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10051",
+        "roi_pin": "360311",
+        "roi_city": "GONDAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10052",
+        "roi_pin": "360320",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10053",
+        "roi_pin": "360335",
+        "roi_city": "GONDAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10054",
+        "roi_pin": "360360",
+        "roi_city": "JETPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10055",
+        "roi_pin": "360370",
+        "roi_city": "JETPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10056",
+        "roi_pin": "360410",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10057",
+        "roi_pin": "360411",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10058",
+        "roi_pin": "360490",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10059",
+        "roi_pin": "360545",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10060",
+        "roi_pin": "360575",
+        "roi_city": "PORBUNDER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10061",
+        "roi_pin": "360576",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10062",
+        "roi_pin": "360577",
+        "roi_city": "PORBUNDER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10063",
+        "roi_pin": "360578",
+        "roi_city": "PORBUNDER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10064",
+        "roi_pin": "360583",
+        "roi_city": "PORBUNDER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10065",
+        "roi_pin": "360585",
+        "roi_city": "PORBUNDER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10066",
+        "roi_pin": "361001",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10067",
+        "roi_pin": "361002",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10068",
+        "roi_pin": "361003",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10069",
+        "roi_pin": "361004",
+        "roi_city": "JAMNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10070",
+        "roi_pin": "361005",
+        "roi_city": "JAMNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10071",
+        "roi_pin": "361006",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10072",
+        "roi_pin": "361007",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10073",
+        "roi_pin": "361008",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10074",
+        "roi_pin": "361101",
+        "roi_city": "JAMNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10075",
+        "roi_pin": "361140",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10076",
+        "roi_pin": "361142",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10077",
+        "roi_pin": "361150",
+        "roi_city": "JAMNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10078",
+        "roi_pin": "361210",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10079",
+        "roi_pin": "361305",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10080",
+        "roi_pin": "361335",
+        "roi_city": "DWARKA -GJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10081",
+        "roi_pin": "361336",
+        "roi_city": "DWARKA -GJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10082",
+        "roi_pin": "361342",
+        "roi_city": "MITHAPUR(GJ)",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10083",
+        "roi_pin": "361345",
+        "roi_city": "MITHAPUR(GJ)",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10084",
+        "roi_pin": "362001",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10085",
+        "roi_pin": "362002",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10086",
+        "roi_pin": "362003",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10087",
+        "roi_pin": "362004",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10088",
+        "roi_pin": "362005",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10089",
+        "roi_pin": "362013",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10090",
+        "roi_pin": "362015",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10091",
+        "roi_pin": "362136",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10092",
+        "roi_pin": "362220",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10093",
+        "roi_pin": "362221",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10094",
+        "roi_pin": "362224",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10095",
+        "roi_pin": "362225",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10096",
+        "roi_pin": "362248",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10097",
+        "roi_pin": "362249",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10098",
+        "roi_pin": "362259",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10099",
+        "roi_pin": "362265",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10100",
+        "roi_pin": "362266",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10101",
+        "roi_pin": "362267",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10102",
+        "roi_pin": "362268",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10103",
+        "roi_pin": "362271",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10104",
+        "roi_pin": "362278",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10105",
+        "roi_pin": "362615",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10106",
+        "roi_pin": "362626",
+        "roi_city": "KESHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10107",
+        "roi_pin": "362727",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10108",
+        "roi_pin": "362733",
+        "roi_city": "JUNAGADH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10109",
+        "roi_pin": "363001",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10110",
+        "roi_pin": "363002",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10111",
+        "roi_pin": "363007",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10112",
+        "roi_pin": "363022",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10113",
+        "roi_pin": "363023",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10114",
+        "roi_pin": "363030",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10115",
+        "roi_pin": "363031",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10116",
+        "roi_pin": "363035",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10117",
+        "roi_pin": "363039",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10118",
+        "roi_pin": "363040",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10119",
+        "roi_pin": "363310",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10120",
+        "roi_pin": "363312",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10121",
+        "roi_pin": "363315",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10122",
+        "roi_pin": "363333",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10123",
+        "roi_pin": "363412",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10124",
+        "roi_pin": "363421",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10125",
+        "roi_pin": "363424",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10126",
+        "roi_pin": "363426",
+        "roi_city": "SURENDRANAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10127",
+        "roi_pin": "363535",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10128",
+        "roi_pin": "363610",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10129",
+        "roi_pin": "363621",
+        "roi_city": "WANKANER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10130",
+        "roi_pin": "363622",
+        "roi_city": "WANKANER",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10131",
+        "roi_pin": "363626",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10132",
+        "roi_pin": "363630",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10133",
+        "roi_pin": "363631",
+        "roi_city": "VERAVAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10134",
+        "roi_pin": "363636",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10135",
+        "roi_pin": "363641",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10136",
+        "roi_pin": "363642",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10137",
+        "roi_pin": "363646",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10138",
+        "roi_pin": "363665",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10139",
+        "roi_pin": "363667",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10140",
+        "roi_pin": "363669",
+        "roi_city": "MORBI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10141",
+        "roi_pin": "364001",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10142",
+        "roi_pin": "364002",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10143",
+        "roi_pin": "364003",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10144",
+        "roi_pin": "364004",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10145",
+        "roi_pin": "364005",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10146",
+        "roi_pin": "364006",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10147",
+        "roi_pin": "364022",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10148",
+        "roi_pin": "364140",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10149",
+        "roi_pin": "364215",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10150",
+        "roi_pin": "364220",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10151",
+        "roi_pin": "364225",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10152",
+        "roi_pin": "364240",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10153",
+        "roi_pin": "364241",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10154",
+        "roi_pin": "364245",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10155",
+        "roi_pin": "364270",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10156",
+        "roi_pin": "364290",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10157",
+        "roi_pin": "364292",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10158",
+        "roi_pin": "364293",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10159",
+        "roi_pin": "364297",
+        "roi_city": "BHAVNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10160",
+        "roi_pin": "364455",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10161",
+        "roi_pin": "364457",
+        "roi_city": "GONDAL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10162",
+        "roi_pin": "364524",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10163",
+        "roi_pin": "364536",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10164",
+        "roi_pin": "364537",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10165",
+        "roi_pin": "364540",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10166",
+        "roi_pin": "364560",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10167",
+        "roi_pin": "364561",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10168",
+        "roi_pin": "364570",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10169",
+        "roi_pin": "364601",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10170",
+        "roi_pin": "364615",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10171",
+        "roi_pin": "364660",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10172",
+        "roi_pin": "364710",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10173",
+        "roi_pin": "364712",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10174",
+        "roi_pin": "364713",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10175",
+        "roi_pin": "364714",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10176",
+        "roi_pin": "365001",
+        "roi_city": "RAJKOT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10177",
+        "roi_pin": "365220",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10178",
+        "roi_pin": "365560",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10179",
+        "roi_pin": "365601",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10180",
+        "roi_pin": "365615",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10181",
+        "roi_pin": "365616",
+        "roi_city": "AMRELI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10182",
+        "roi_pin": "365730",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10183",
+        "roi_pin": "370001",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10184",
+        "roi_pin": "370002",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10185",
+        "roi_pin": "370006",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10186",
+        "roi_pin": "370007",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10187",
+        "roi_pin": "370015",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10188",
+        "roi_pin": "370020",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10189",
+        "roi_pin": "370030",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10190",
+        "roi_pin": "370061",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10191",
+        "roi_pin": "370110",
+        "roi_city": "ANJAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10192",
+        "roi_pin": "370111",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10193",
+        "roi_pin": "370170",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10194",
+        "roi_pin": "370201",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10195",
+        "roi_pin": "370202",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10196",
+        "roi_pin": "370203",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10197",
+        "roi_pin": "370204",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10198",
+        "roi_pin": "370205",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10199",
+        "roi_pin": "370210",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10200",
+        "roi_pin": "370230",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10201",
+        "roi_pin": "370410",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10202",
+        "roi_pin": "370415",
+        "roi_city": "MUNDRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10203",
+        "roi_pin": "370421",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10204",
+        "roi_pin": "370427",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10205",
+        "roi_pin": "370440",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10206",
+        "roi_pin": "370465",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10207",
+        "roi_pin": "370471",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10208",
+        "roi_pin": "370485",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10209",
+        "roi_pin": "370611",
+        "roi_city": "BHUJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10210",
+        "roi_pin": "370615",
+        "roi_city": "KUTCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10211",
+        "roi_pin": "370655",
+        "roi_city": "GANDHIDHAM",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10212",
+        "roi_pin": "380000",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10213",
+        "roi_pin": "380001",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10214",
+        "roi_pin": "380002",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10215",
+        "roi_pin": "380003",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10216",
+        "roi_pin": "380004",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10217",
+        "roi_pin": "380005",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10218",
+        "roi_pin": "380006",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10219",
+        "roi_pin": "380007",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10220",
+        "roi_pin": "380008",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10221",
+        "roi_pin": "380009",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10222",
+        "roi_pin": "380010",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10223",
+        "roi_pin": "380011",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10224",
+        "roi_pin": "380012",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10225",
+        "roi_pin": "380013",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10226",
+        "roi_pin": "380014",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10227",
+        "roi_pin": "380015",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10228",
+        "roi_pin": "380016",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10229",
+        "roi_pin": "380017",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10230",
+        "roi_pin": "380018",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10231",
+        "roi_pin": "380019",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10232",
+        "roi_pin": "380020",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10233",
+        "roi_pin": "380021",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10234",
+        "roi_pin": "380022",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10235",
+        "roi_pin": "380023",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10236",
+        "roi_pin": "380024",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10237",
+        "roi_pin": "380025",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10238",
+        "roi_pin": "380026",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10239",
+        "roi_pin": "380027",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10240",
+        "roi_pin": "380028",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10241",
+        "roi_pin": "380029",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10242",
+        "roi_pin": "380030",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10243",
+        "roi_pin": "380038",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10244",
+        "roi_pin": "380041",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10245",
+        "roi_pin": "380045",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10246",
+        "roi_pin": "380050",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10247",
+        "roi_pin": "380051",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10248",
+        "roi_pin": "380052",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10249",
+        "roi_pin": "380053",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10250",
+        "roi_pin": "380054",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10251",
+        "roi_pin": "380055",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10252",
+        "roi_pin": "380056",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10253",
+        "roi_pin": "380057",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10254",
+        "roi_pin": "380058",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10255",
+        "roi_pin": "380059",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10256",
+        "roi_pin": "380060",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10257",
+        "roi_pin": "380061",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10258",
+        "roi_pin": "380062",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10259",
+        "roi_pin": "380063",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10260",
+        "roi_pin": "380123",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10261",
+        "roi_pin": "380202",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10262",
+        "roi_pin": "380210",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10263",
+        "roi_pin": "380215",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10264",
+        "roi_pin": "380316",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10265",
+        "roi_pin": "380330",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10266",
+        "roi_pin": "380452",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10267",
+        "roi_pin": "380481",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10268",
+        "roi_pin": "381156",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10269",
+        "roi_pin": "381520",
+        "roi_city": "VALSAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10270",
+        "roi_pin": "382001",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10271",
+        "roi_pin": "382002",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10272",
+        "roi_pin": "382003",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10273",
+        "roi_pin": "382004",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10274",
+        "roi_pin": "382005",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10275",
+        "roi_pin": "382006",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10276",
+        "roi_pin": "382007",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10277",
+        "roi_pin": "382008",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10278",
+        "roi_pin": "382009",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10279",
+        "roi_pin": "382010",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10280",
+        "roi_pin": "382011",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10281",
+        "roi_pin": "382012",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10282",
+        "roi_pin": "382013",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10283",
+        "roi_pin": "382014",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10284",
+        "roi_pin": "382015",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10285",
+        "roi_pin": "382016",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10286",
+        "roi_pin": "382017",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10287",
+        "roi_pin": "382018",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10288",
+        "roi_pin": "382019",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10289",
+        "roi_pin": "382020",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10290",
+        "roi_pin": "382021",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10291",
+        "roi_pin": "382022",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10292",
+        "roi_pin": "382023",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10293",
+        "roi_pin": "382024",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10294",
+        "roi_pin": "382025",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10295",
+        "roi_pin": "382026",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10296",
+        "roi_pin": "382027",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10297",
+        "roi_pin": "382028",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10298",
+        "roi_pin": "382029",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10299",
+        "roi_pin": "382030",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10300",
+        "roi_pin": "382041",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10301",
+        "roi_pin": "382042",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10302",
+        "roi_pin": "382043",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10303",
+        "roi_pin": "382044",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10304",
+        "roi_pin": "382045",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10305",
+        "roi_pin": "382051",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10306",
+        "roi_pin": "382110",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10307",
+        "roi_pin": "382120",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10308",
+        "roi_pin": "382130",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10309",
+        "roi_pin": "382140",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10310",
+        "roi_pin": "382150",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10311",
+        "roi_pin": "382155",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10312",
+        "roi_pin": "382160",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10313",
+        "roi_pin": "382170",
+        "roi_city": "SANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10314",
+        "roi_pin": "382210",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10315",
+        "roi_pin": "382211",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10316",
+        "roi_pin": "382213",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10317",
+        "roi_pin": "382220",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10318",
+        "roi_pin": "382225",
+        "roi_city": "BAVLA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10319",
+        "roi_pin": "382230",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10320",
+        "roi_pin": "382260",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10321",
+        "roi_pin": "382270",
+        "roi_city": "BAVLA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10322",
+        "roi_pin": "382305",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10323",
+        "roi_pin": "382310",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10324",
+        "roi_pin": "382316",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10325",
+        "roi_pin": "382321",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10326",
+        "roi_pin": "382324",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10327",
+        "roi_pin": "382325",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10328",
+        "roi_pin": "382330",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10329",
+        "roi_pin": "382333",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10330",
+        "roi_pin": "382340",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10331",
+        "roi_pin": "382345",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10332",
+        "roi_pin": "382346",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10333",
+        "roi_pin": "382350",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10334",
+        "roi_pin": "382352",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10335",
+        "roi_pin": "382355",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10336",
+        "roi_pin": "382360",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10337",
+        "roi_pin": "382404",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10338",
+        "roi_pin": "382405",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10339",
+        "roi_pin": "382410",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10340",
+        "roi_pin": "382415",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10341",
+        "roi_pin": "382418",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10342",
+        "roi_pin": "382420",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10343",
+        "roi_pin": "382421",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10344",
+        "roi_pin": "382423",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10345",
+        "roi_pin": "382424",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10346",
+        "roi_pin": "382425",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10347",
+        "roi_pin": "382427",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10348",
+        "roi_pin": "382428",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10349",
+        "roi_pin": "382430",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10350",
+        "roi_pin": "382433",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10351",
+        "roi_pin": "382435",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10352",
+        "roi_pin": "382440",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10353",
+        "roi_pin": "382442",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10354",
+        "roi_pin": "382443",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10355",
+        "roi_pin": "382445",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10356",
+        "roi_pin": "382449",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10357",
+        "roi_pin": "382450",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10358",
+        "roi_pin": "382460",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10359",
+        "roi_pin": "382470",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10360",
+        "roi_pin": "382475",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10361",
+        "roi_pin": "382480",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10362",
+        "roi_pin": "382481",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10363",
+        "roi_pin": "382610",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10364",
+        "roi_pin": "382620",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10365",
+        "roi_pin": "382625",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10366",
+        "roi_pin": "382630",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10367",
+        "roi_pin": "382644",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10368",
+        "roi_pin": "382655",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10369",
+        "roi_pin": "382704",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10370",
+        "roi_pin": "382705",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10371",
+        "roi_pin": "382706",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10372",
+        "roi_pin": "382707",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10373",
+        "roi_pin": "382708",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10374",
+        "roi_pin": "382709",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10375",
+        "roi_pin": "382712",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10376",
+        "roi_pin": "382713",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10377",
+        "roi_pin": "382715",
+        "roi_city": "KADI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10378",
+        "roi_pin": "382716",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10379",
+        "roi_pin": "382717",
+        "roi_city": "KADI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10380",
+        "roi_pin": "382718",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10381",
+        "roi_pin": "382719",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10382",
+        "roi_pin": "382720",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10383",
+        "roi_pin": "382721",
+        "roi_city": "SANTEJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10384",
+        "roi_pin": "382722",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10385",
+        "roi_pin": "382723",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10386",
+        "roi_pin": "382724",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10387",
+        "roi_pin": "382725",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10388",
+        "roi_pin": "382727",
+        "roi_city": "KADI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10389",
+        "roi_pin": "382729",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10390",
+        "roi_pin": "382731",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10391",
+        "roi_pin": "382733",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10392",
+        "roi_pin": "382735",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10393",
+        "roi_pin": "382736",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10394",
+        "roi_pin": "382737",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10395",
+        "roi_pin": "382741",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10396",
+        "roi_pin": "382743",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10397",
+        "roi_pin": "382750",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10398",
+        "roi_pin": "382805",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10399",
+        "roi_pin": "382806",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10400",
+        "roi_pin": "382816",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10401",
+        "roi_pin": "382826",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10402",
+        "roi_pin": "382830",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10403",
+        "roi_pin": "382831",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10404",
+        "roi_pin": "382833",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10405",
+        "roi_pin": "382845",
+        "roi_city": "GANDHINAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10406",
+        "roi_pin": "382851",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10407",
+        "roi_pin": "382857",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10408",
+        "roi_pin": "382861",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10409",
+        "roi_pin": "382870",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10410",
+        "roi_pin": "382871",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10411",
+        "roi_pin": "382875",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10412",
+        "roi_pin": "383001",
+        "roi_city": "HIMMATNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10413",
+        "roi_pin": "383002",
+        "roi_city": "HIMMATNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10414",
+        "roi_pin": "383004",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10415",
+        "roi_pin": "383006",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10416",
+        "roi_pin": "383009",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10417",
+        "roi_pin": "383205",
+        "roi_city": "HIMMATNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10418",
+        "roi_pin": "383220",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10419",
+        "roi_pin": "383315",
+        "roi_city": "MODASA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10420",
+        "roi_pin": "383341",
+        "roi_city": "KALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10421",
+        "roi_pin": "383354",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10422",
+        "roi_pin": "383430",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10423",
+        "roi_pin": "384001",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10424",
+        "roi_pin": "384002",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10425",
+        "roi_pin": "384003",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10426",
+        "roi_pin": "384004",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10427",
+        "roi_pin": "384011",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10428",
+        "roi_pin": "384121",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10429",
+        "roi_pin": "384122",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10430",
+        "roi_pin": "384131",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10431",
+        "roi_pin": "384135",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10432",
+        "roi_pin": "384151",
+        "roi_city": "SIDDHPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10433",
+        "roi_pin": "384152",
+        "roi_city": "SIDDHPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10434",
+        "roi_pin": "384153",
+        "roi_city": "SIDDHPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10435",
+        "roi_pin": "384154",
+        "roi_city": "SIDDHPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10436",
+        "roi_pin": "384160",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10437",
+        "roi_pin": "384165",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10438",
+        "roi_pin": "384170",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10439",
+        "roi_pin": "384171",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10440",
+        "roi_pin": "384172",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10441",
+        "roi_pin": "384174",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10442",
+        "roi_pin": "384175",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10443",
+        "roi_pin": "384176",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10444",
+        "roi_pin": "384177",
+        "roi_city": "UNJHA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10445",
+        "roi_pin": "384178",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10446",
+        "roi_pin": "384205",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10447",
+        "roi_pin": "384206",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10448",
+        "roi_pin": "384207",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10449",
+        "roi_pin": "384210",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10450",
+        "roi_pin": "384211",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10451",
+        "roi_pin": "384213",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10452",
+        "roi_pin": "384231",
+        "roi_city": "PATAN",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10453",
+        "roi_pin": "384240",
+        "roi_city": "PATAN",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10454",
+        "roi_pin": "384250",
+        "roi_city": "VISNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10455",
+        "roi_pin": "384256",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10456",
+        "roi_pin": "384257",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10457",
+        "roi_pin": "384261",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10458",
+        "roi_pin": "384265",
+        "roi_city": "PATAN",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10459",
+        "roi_pin": "384270",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10460",
+        "roi_pin": "384271",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10461",
+        "roi_pin": "384273",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10462",
+        "roi_pin": "384274",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10463",
+        "roi_pin": "384276",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10464",
+        "roi_pin": "384277",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10465",
+        "roi_pin": "384278",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10466",
+        "roi_pin": "384280",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10467",
+        "roi_pin": "384291",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10468",
+        "roi_pin": "384292",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10469",
+        "roi_pin": "384311",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10470",
+        "roi_pin": "384315",
+        "roi_city": "VISNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10471",
+        "roi_pin": "384318",
+        "roi_city": "VISNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10472",
+        "roi_pin": "384319",
+        "roi_city": "VISNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10473",
+        "roi_pin": "384350",
+        "roi_city": "VISNAGAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10474",
+        "roi_pin": "384411",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10475",
+        "roi_pin": "384440",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10476",
+        "roi_pin": "385001",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10477",
+        "roi_pin": "385002",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10478",
+        "roi_pin": "385007",
+        "roi_city": "PALANPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10479",
+        "roi_pin": "385011",
+        "roi_city": "PALANPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10480",
+        "roi_pin": "385012",
+        "roi_city": "PALANPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10481",
+        "roi_pin": "385110",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10482",
+        "roi_pin": "385111",
+        "roi_city": "PALANPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10483",
+        "roi_pin": "385112",
+        "roi_city": "PALANPUR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10484",
+        "roi_pin": "385210",
+        "roi_city": "CHHAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10485",
+        "roi_pin": "385215",
+        "roi_city": "CHHAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10486",
+        "roi_pin": "385315",
+        "roi_city": "DHANERA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10487",
+        "roi_pin": "385325",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10488",
+        "roi_pin": "385326",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10489",
+        "roi_pin": "385340",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10490",
+        "roi_pin": "385505",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10491",
+        "roi_pin": "385520",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10492",
+        "roi_pin": "385535",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10493",
+        "roi_pin": "385541",
+        "roi_city": "DEESA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10494",
+        "roi_pin": "385543",
+        "roi_city": "DEESA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10495",
+        "roi_pin": "385545",
+        "roi_city": "MEHSANA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10496",
+        "roi_pin": "387001",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10497",
+        "roi_pin": "387002",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10498",
+        "roi_pin": "387100",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10499",
+        "roi_pin": "387113",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10500",
+        "roi_pin": "387130",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10501",
+        "roi_pin": "387135",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10502",
+        "roi_pin": "387140",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10503",
+        "roi_pin": "387331",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10504",
+        "roi_pin": "387355",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10505",
+        "roi_pin": "387382",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10506",
+        "roi_pin": "387385",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10507",
+        "roi_pin": "387411",
+        "roi_city": "KHEDA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10508",
+        "roi_pin": "387421",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10509",
+        "roi_pin": "387435",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10510",
+        "roi_pin": "387531",
+        "roi_city": "NADIAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10511",
+        "roi_pin": "387810",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10512",
+        "roi_pin": "388001",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10513",
+        "roi_pin": "388011",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10514",
+        "roi_pin": "388020",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10515",
+        "roi_pin": "388051",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10516",
+        "roi_pin": "388052",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10517",
+        "roi_pin": "388120",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10518",
+        "roi_pin": "388121",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10519",
+        "roi_pin": "388122",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10520",
+        "roi_pin": "388201",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10521",
+        "roi_pin": "388220",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10522",
+        "roi_pin": "388320",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10523",
+        "roi_pin": "388321",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10524",
+        "roi_pin": "388325",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10525",
+        "roi_pin": "388430",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10526",
+        "roi_pin": "388435",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10527",
+        "roi_pin": "388445",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10528",
+        "roi_pin": "388450",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10529",
+        "roi_pin": "388540",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10530",
+        "roi_pin": "388544",
+        "roi_city": "ANAND",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10531",
+        "roi_pin": "388620",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10532",
+        "roi_pin": "388630",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10533",
+        "roi_pin": "388888",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10534",
+        "roi_pin": "389001",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10535",
+        "roi_pin": "389122",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10536",
+        "roi_pin": "389123",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10537",
+        "roi_pin": "389150",
+        "roi_city": "DAHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10538",
+        "roi_pin": "389151",
+        "roi_city": "DAHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10539",
+        "roi_pin": "389158",
+        "roi_city": "DAHOD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10540",
+        "roi_pin": "389260",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10541",
+        "roi_pin": "389322",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10542",
+        "roi_pin": "389325",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10543",
+        "roi_pin": "389330",
+        "roi_city": "GODHRA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10544",
+        "roi_pin": "389344",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10545",
+        "roi_pin": "389347",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10546",
+        "roi_pin": "389348",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10547",
+        "roi_pin": "389350",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10548",
+        "roi_pin": "389351",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10549",
+        "roi_pin": "389352",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10550",
+        "roi_pin": "389355",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10551",
+        "roi_pin": "390001",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10552",
+        "roi_pin": "390002",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10553",
+        "roi_pin": "390003",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10554",
+        "roi_pin": "390004",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10555",
+        "roi_pin": "390005",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10556",
+        "roi_pin": "390006",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10557",
+        "roi_pin": "390007",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10558",
+        "roi_pin": "390008",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10559",
+        "roi_pin": "390009",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10560",
+        "roi_pin": "390010",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10561",
+        "roi_pin": "390011",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10562",
+        "roi_pin": "390012",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10563",
+        "roi_pin": "390013",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10564",
+        "roi_pin": "390014",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10565",
+        "roi_pin": "390015",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10566",
+        "roi_pin": "390016",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10567",
+        "roi_pin": "390017",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10568",
+        "roi_pin": "390018",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10569",
+        "roi_pin": "390019",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10570",
+        "roi_pin": "390020",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10571",
+        "roi_pin": "390021",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10572",
+        "roi_pin": "390022",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10573",
+        "roi_pin": "390023",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10574",
+        "roi_pin": "390024",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10575",
+        "roi_pin": "390025",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10576",
+        "roi_pin": "390915",
+        "roi_city": "AHMEDABAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10577",
+        "roi_pin": "391210",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10578",
+        "roi_pin": "391220",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10579",
+        "roi_pin": "391240",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10580",
+        "roi_pin": "391241",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10581",
+        "roi_pin": "391242",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10582",
+        "roi_pin": "391243",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10583",
+        "roi_pin": "391245",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10584",
+        "roi_pin": "391310",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10585",
+        "roi_pin": "391320",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10586",
+        "roi_pin": "391340",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10587",
+        "roi_pin": "391347",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10588",
+        "roi_pin": "391350",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10589",
+        "roi_pin": "391351",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10590",
+        "roi_pin": "391352",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10591",
+        "roi_pin": "391353",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10592",
+        "roi_pin": "391354",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10593",
+        "roi_pin": "391380",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10594",
+        "roi_pin": "391410",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10595",
+        "roi_pin": "391411",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10596",
+        "roi_pin": "391440",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10597",
+        "roi_pin": "391441",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10598",
+        "roi_pin": "391442",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10599",
+        "roi_pin": "391447",
+        "roi_city": "HALOL",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10600",
+        "roi_pin": "391460",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10601",
+        "roi_pin": "391510",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10602",
+        "roi_pin": "391740",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10603",
+        "roi_pin": "391750",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10604",
+        "roi_pin": "391760",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10605",
+        "roi_pin": "391770",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10606",
+        "roi_pin": "391773",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10607",
+        "roi_pin": "391775",
+        "roi_city": "BARODA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10608",
+        "roi_pin": "392001",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10609",
+        "roi_pin": "392002",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10610",
+        "roi_pin": "392003",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10611",
+        "roi_pin": "392004",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10612",
+        "roi_pin": "392005",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10613",
+        "roi_pin": "392011",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10614",
+        "roi_pin": "392012",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10615",
+        "roi_pin": "392013",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10616",
+        "roi_pin": "392014",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10617",
+        "roi_pin": "392015",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10618",
+        "roi_pin": "392031",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10619",
+        "roi_pin": "392105",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10620",
+        "roi_pin": "392130",
+        "roi_city": "DAHEJ",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10621",
+        "roi_pin": "392162",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10622",
+        "roi_pin": "392221",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10623",
+        "roi_pin": "393001",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10624",
+        "roi_pin": "393002",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10625",
+        "roi_pin": "393003",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10626",
+        "roi_pin": "393004",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10627",
+        "roi_pin": "393005",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10628",
+        "roi_pin": "393006",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10629",
+        "roi_pin": "393010",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10630",
+        "roi_pin": "393016",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10631",
+        "roi_pin": "393018",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10632",
+        "roi_pin": "393021",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10633",
+        "roi_pin": "393110",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10634",
+        "roi_pin": "393111",
+        "roi_city": "BHARUCH",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10635",
+        "roi_pin": "393133",
+        "roi_city": "NAVSARI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10636",
+        "roi_pin": "393236",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10637",
+        "roi_pin": "394010",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10638",
+        "roi_pin": "394101",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10639",
+        "roi_pin": "394105",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10640",
+        "roi_pin": "394107",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10641",
+        "roi_pin": "394110",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10642",
+        "roi_pin": "394114",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10643",
+        "roi_pin": "394116",
+        "roi_city": "ANKLESHWAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10644",
+        "roi_pin": "394130",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10645",
+        "roi_pin": "394150",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10646",
+        "roi_pin": "394180",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10647",
+        "roi_pin": "394185",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10648",
+        "roi_pin": "394210",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10649",
+        "roi_pin": "394211",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10650",
+        "roi_pin": "394212",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10651",
+        "roi_pin": "394218",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10652",
+        "roi_pin": "394220",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10653",
+        "roi_pin": "394221",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10654",
+        "roi_pin": "394230",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10655",
+        "roi_pin": "394243",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10656",
+        "roi_pin": "394244",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10657",
+        "roi_pin": "394270",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10658",
+        "roi_pin": "394296",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10659",
+        "roi_pin": "394305",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10660",
+        "roi_pin": "394307",
+        "roi_city": "VALSAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10661",
+        "roi_pin": "394310",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10662",
+        "roi_pin": "394315",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10663",
+        "roi_pin": "394320",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10664",
+        "roi_pin": "394325",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10665",
+        "roi_pin": "394327",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10666",
+        "roi_pin": "394510",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10667",
+        "roi_pin": "394515",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10668",
+        "roi_pin": "394517",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10669",
+        "roi_pin": "394518",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10670",
+        "roi_pin": "394540",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10671",
+        "roi_pin": "394601",
+        "roi_city": "BARDOLI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10672",
+        "roi_pin": "394602",
+        "roi_city": "BARDOLI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10673",
+        "roi_pin": "394650",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10674",
+        "roi_pin": "395001",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10675",
+        "roi_pin": "395002",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10676",
+        "roi_pin": "395003",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10677",
+        "roi_pin": "395004",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10678",
+        "roi_pin": "395005",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10679",
+        "roi_pin": "395006",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10680",
+        "roi_pin": "395007",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10681",
+        "roi_pin": "395008",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10682",
+        "roi_pin": "395009",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10683",
+        "roi_pin": "395010",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10684",
+        "roi_pin": "395016",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10685",
+        "roi_pin": "395017",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10686",
+        "roi_pin": "395018",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10687",
+        "roi_pin": "395021",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10688",
+        "roi_pin": "395023",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10689",
+        "roi_pin": "395101",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10690",
+        "roi_pin": "395210",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10691",
+        "roi_pin": "395345",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10692",
+        "roi_pin": "395375",
+        "roi_city": "BARDOLI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10693",
+        "roi_pin": "395620",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10694",
+        "roi_pin": "396001",
+        "roi_city": "VALSAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10695",
+        "roi_pin": "396002",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10696",
+        "roi_pin": "396006",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10697",
+        "roi_pin": "396015",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10698",
+        "roi_pin": "396020",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10699",
+        "roi_pin": "396021",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10700",
+        "roi_pin": "396030",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10701",
+        "roi_pin": "396031",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10702",
+        "roi_pin": "396035",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10703",
+        "roi_pin": "396091",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10704",
+        "roi_pin": "396101",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10705",
+        "roi_pin": "396105",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10706",
+        "roi_pin": "396106",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10707",
+        "roi_pin": "396107",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10708",
+        "roi_pin": "396108",
+        "roi_city": "BILIMORA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10709",
+        "roi_pin": "396112",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10710",
+        "roi_pin": "396125",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10711",
+        "roi_pin": "396145",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10712",
+        "roi_pin": "396150",
+        "roi_city": "VALSAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10713",
+        "roi_pin": "396155",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10714",
+        "roi_pin": "396170",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10715",
+        "roi_pin": "396171",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10716",
+        "roi_pin": "396175",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10717",
+        "roi_pin": "396180",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10718",
+        "roi_pin": "396185",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10719",
+        "roi_pin": "396191",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10720",
+        "roi_pin": "396193",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10721",
+        "roi_pin": "396194",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10722",
+        "roi_pin": "396195",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10723",
+        "roi_pin": "396196",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10724",
+        "roi_pin": "396197",
+        "roi_city": "VASAD",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10725",
+        "roi_pin": "396200",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10726",
+        "roi_pin": "396201",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10727",
+        "roi_pin": "396202",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10728",
+        "roi_pin": "396209",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10729",
+        "roi_pin": "396211",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10730",
+        "roi_pin": "396215",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10731",
+        "roi_pin": "396217",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10732",
+        "roi_pin": "396223",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10733",
+        "roi_pin": "396230",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10734",
+        "roi_pin": "396235",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10735",
+        "roi_pin": "396236",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10736",
+        "roi_pin": "396240",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10737",
+        "roi_pin": "396245",
+        "roi_city": "VAPI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10738",
+        "roi_pin": "396301",
+        "roi_city": "BILIMORA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10739",
+        "roi_pin": "396321",
+        "roi_city": "BILIMORA",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10740",
+        "roi_pin": "396330",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10741",
+        "roi_pin": "396331",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10742",
+        "roi_pin": "396424",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10743",
+        "roi_pin": "396425",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10744",
+        "roi_pin": "396427",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10745",
+        "roi_pin": "396436",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10746",
+        "roi_pin": "396443",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10747",
+        "roi_pin": "396445",
+        "roi_city": "NAVSARI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10748",
+        "roi_pin": "396452",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10749",
+        "roi_pin": "396480",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10750",
+        "roi_pin": "396521",
+        "roi_city": "NAVSARI",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10751",
+        "roi_pin": "396523",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10752",
+        "roi_pin": "396525",
+        "roi_city": "SURAT",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10753",
+        "roi_pin": "403001",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10754",
+        "roi_pin": "403002",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10755",
+        "roi_pin": "403003",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10756",
+        "roi_pin": "403004",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10757",
+        "roi_pin": "403005",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10758",
+        "roi_pin": "403006",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10759",
+        "roi_pin": "403101",
+        "roi_city": "CALANGUTE",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10760",
+        "roi_pin": "403107",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10761",
+        "roi_pin": "403109",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10762",
+        "roi_pin": "403110",
+        "roi_city": "OLD GOA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10763",
+        "roi_pin": "403111",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10764",
+        "roi_pin": "403112",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10765",
+        "roi_pin": "403114",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10766",
+        "roi_pin": "403115",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10767",
+        "roi_pin": "403201",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10768",
+        "roi_pin": "403202",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10769",
+        "roi_pin": "403206",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10770",
+        "roi_pin": "403401",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10771",
+        "roi_pin": "403402",
+        "roi_city": "OLD GOA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10772",
+        "roi_pin": "403404",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10773",
+        "roi_pin": "403405",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10774",
+        "roi_pin": "403406",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10775",
+        "roi_pin": "403407",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10776",
+        "roi_pin": "403408",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10777",
+        "roi_pin": "403409",
+        "roi_city": "PONDA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10778",
+        "roi_pin": "403501",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10779",
+        "roi_pin": "403502",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10780",
+        "roi_pin": "403504",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10781",
+        "roi_pin": "403505",
+        "roi_city": "BICHOLIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10782",
+        "roi_pin": "403506",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10783",
+        "roi_pin": "403507",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10784",
+        "roi_pin": "403509",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10785",
+        "roi_pin": "403510",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10786",
+        "roi_pin": "403511",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10787",
+        "roi_pin": "403512",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10788",
+        "roi_pin": "403513",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10789",
+        "roi_pin": "403514",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10790",
+        "roi_pin": "403515",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10791",
+        "roi_pin": "403516",
+        "roi_city": "CALANGUTE",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10792",
+        "roi_pin": "403517",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10793",
+        "roi_pin": "403518",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10794",
+        "roi_pin": "403519",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10795",
+        "roi_pin": "403520",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10796",
+        "roi_pin": "403521",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10797",
+        "roi_pin": "403524",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10798",
+        "roi_pin": "403525",
+        "roi_city": "MAPUSA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10799",
+        "roi_pin": "403529",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10800",
+        "roi_pin": "403530",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10801",
+        "roi_pin": "403531",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10802",
+        "roi_pin": "403601",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10803",
+        "roi_pin": "403602",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10804",
+        "roi_pin": "403603",
+        "roi_city": "SALCETE",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10805",
+        "roi_pin": "403604",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10806",
+        "roi_pin": "403701",
+        "roi_city": "SALCETE",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10807",
+        "roi_pin": "403702",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10808",
+        "roi_pin": "403703",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10809",
+        "roi_pin": "403704",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10810",
+        "roi_pin": "403705",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10811",
+        "roi_pin": "403706",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10812",
+        "roi_pin": "403707",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10813",
+        "roi_pin": "403708",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10814",
+        "roi_pin": "403710",
+        "roi_city": "ZUARI NAGAR",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10815",
+        "roi_pin": "403711",
+        "roi_city": "ZUARI NAGAR",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10816",
+        "roi_pin": "403712",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10817",
+        "roi_pin": "403713",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10818",
+        "roi_pin": "403715",
+        "roi_city": "SALCETE",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10819",
+        "roi_pin": "403716",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10820",
+        "roi_pin": "403717",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10821",
+        "roi_pin": "403721",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10822",
+        "roi_pin": "403722",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10823",
+        "roi_pin": "403724",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10824",
+        "roi_pin": "403726",
+        "roi_city": "ZUARI NAGAR",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10825",
+        "roi_pin": "403727",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10826",
+        "roi_pin": "403729",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10827",
+        "roi_pin": "403731",
+        "roi_city": "MARGAO",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10828",
+        "roi_pin": "403801",
+        "roi_city": "ZUARI NAGAR",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10829",
+        "roi_pin": "403802",
+        "roi_city": "VASCO DA GAMA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10830",
+        "roi_pin": "403803",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10831",
+        "roi_pin": "403804",
+        "roi_city": "VASCO DA GAMA",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10832",
+        "roi_pin": "403806",
+        "roi_city": "ZUARI NAGAR",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10833",
+        "roi_pin": "430507",
+        "roi_city": "PANJIM",
+        "roi_state": "GOA"
+    },
+    {
+        "id": "10834",
+        "roi_pin": "451555",
+        "roi_city": "ANJAR",
+        "roi_state": "GUJARAT"
+    },
+    {
+        "id": "10835",
+        "roi_pin": "451557",
+        "roi_city": "ANJAR",
+        "roi_state": "GUJARAT"
+    }
+]
